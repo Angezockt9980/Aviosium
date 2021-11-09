@@ -1,3 +1,4 @@
 # BlackPhoenixNetwork
-Coming soon!
+### Coming soon!
+
 [Discord](https://dsc.gg/blackphoenix)
