@@ -1,2 +1,2 @@
 # BlackPhoenixNetwork
-Schlag den Yakup lol
+Coming soon!
