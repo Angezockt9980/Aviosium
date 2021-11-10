@@ -4,16 +4,103 @@
 .e1_2 { 
 	background-color:rgba(11.000000294297934, 12.000000234693289, 23.000000528991222, 1);
 	width:1920px;
-	height:1080px;
+	height:2027px;
 	position:absolute;
 }
 .e1_16 { 
 	background-color:rgba(24.000000469386578, 23.000000528991222, 42.000001296401024, 1);
 	width:1580px;
-	height:1030px;
+	height:1989px;
 	position:absolute;
 	left:340px;
-	top:50px;
+	top:38px;
+}
+.e104_8 { 
+	background-color:rgba(33.00000183284283, 40.00000141561031, 64.00000378489494, 1);
+	width:732px;
+	height:606px;
+	position:absolute;
+	left:1158px;
+	top:711px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.104_2 { 
+	border:10px solid rgba(33.00000183284283, 40.00000141561031, 64.00000378489494, 1);
+}
+.e104_2 { 
+	width:1520px;
+	height:598.4251708984375px;
+	position:absolute;
+	left:370px;
+	top:80px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+	background-image:url(images/11307s6d9s0bwv8sacl6ks5evjqtvov7b7lmhlurzqavxh1m8qhkwbs5c8f0ms8flv__ykdvgb076kgrpibkjm_rjtkploxl_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e104_7 { 
+	background-color:rgba(33.00000183284283, 40.00000141561031, 64.00000378489494, 1);
+	width:726px;
+	height:606px;
+	position:absolute;
+	left:376px;
+	top:708px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e104_9 { 
+	width:726px;
+	height:303px;
+	position:absolute;
+	left:376px;
+	top:708px;
+	border-radius:Symbol(figma.mixed)px;
+	background-image:url(images/astroneer_xbox_01_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e104_10 { 
+	color:rgba(255, 255, 255, 1);
+	width:732px;
+	height:303px;
+	position:absolute;
+	left:1158px;
+	top:1011px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:23px;
+	letter-spacing:0;
+}
+.e104_12 { 
+	color:rgba(255, 255, 255, 1);
+	width:732px;
+	height:303px;
+	position:absolute;
+	left:370px;
+	top:1011px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:23px;
+	letter-spacing:0;
+}
+.e104_11 { 
+	width:732px;
+	height:300px;
+	position:absolute;
+	left:1158px;
+	top:711px;
+	border-radius:Symbol(figma.mixed)px;
+	background-image:url(images/20201222145428_1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 .e1_18 { 
 	background-color:rgba(23.000000528991222, 29.000000171363354, 45.00000111758709, 1);
@@ -21,14 +108,22 @@
 	height:1030px;
 	position:absolute;
 	left:0px;
-	top:50px;
+	top:38px;
+}
+.e104_3 { 
+	background-color:rgba(11.000000294297934, 12.000000234693289, 23.000000528991222, 1);
+	width:1920px;
+	height:38px;
+	position:absolute;
+	left:0px;
+	top:0px;
 }
 .e101_2 { 
 	color:rgba(255, 255, 255, 1);
-	width:251px;
-	height:50px;
+	width:340px;
+	height:38px;
 	position:absolute;
-	left:31px;
+	left:0px;
 	top:0px;
 	font-family:Roboto;
 	text-align:center;
